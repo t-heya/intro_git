@@ -1,2 +1,4 @@
 aaa
 テスト
+git add
+git commit
